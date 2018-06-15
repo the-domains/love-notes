@@ -1,0 +1,22 @@
+name: love-notes
+analytics: {}
+content_rating:
+  adult: false
+github: true
+description: codestrology
+opengraph: {}
+title: love notes
+author:
+  name: Ada Lovecraft
+  email: ada@codevinsky.com
+color:
+  lightness: 0.7161028719777481
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  saturation: 0.40588856567765785
+  brandStrength: 0.7633085292212918
+  rhythmicContrast: 0.3341419620751734
